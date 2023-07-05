@@ -13,12 +13,6 @@ Create a QnA chatbot on your documents without relying on the internet by utiliz
 * [Data](#data)
 * [Check repos](#check-repos)
 
-## Getting started
-
-Code is up, ⭐ (Star) the repo meanwhile to receive updates
-
-Follow [Anil Chandra Naidu Matcha](https://twitter.com/matchaman11) & [Ankur Singh](https://twitter.com/ankur_maker) on twitter for updates
-
 ## Requirements
 
 * Python 3.8 or later
