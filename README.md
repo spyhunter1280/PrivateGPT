@@ -68,8 +68,3 @@ The supported extensions for documents are:
 * .pptx : PowerPoint Document,
 * .txt: Text file (UTF-8),
 
-## Check repos
-
-* [Langchain Course](https://github.com/SamurAIGPT/langchain-course)
-* [ChatGPT Developer Plugins](https://github.com/SamurAIGPT/ChatGPT-Developer-Plugins)
-* [Camel AGI](https://github.com/SamurAIGPT/Camel-AutoGPT)
